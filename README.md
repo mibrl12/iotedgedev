@@ -1,7 +1,7 @@
 # Azure IoT Edge Dev Tool
 
 [![Travis Build Status](https://travis-ci.org/Azure/iotedgedev.svg?branch=master)](https://travis-ci.org/Azure/iotedgedev)
-[![Build status](https://iotedgedev.visualstudio.com/iotedgedev-main/_apis/build/status/iotedgedev-master-ci?branch=master)](https://iotedgedev.visualstudio.com/iotedgedev-main/_build/latest?definitionId=6&branch=master)]
+[![Build status](https://iotedgedev.visualstudio.com/iotedgedev-main/_apis/build/status/iotedgedev-master-ci?branch=master)](https://iotedgedev.visualstudio.com/iotedgedev-main/_build/latest?definitionId=6&branch=master)
 
 The **IoT Edge Dev Tool** greatly simplifies [Azure IoT Edge](https:/azure.microsoft.com/en-us/services/iot-edge/) development down to simple commands driven by environment variables.
 
